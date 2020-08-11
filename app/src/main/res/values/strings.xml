@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">WeHealth</string>
+    <string name="move_activity">TIPS JAGA DIRI</string>
+    <string name="move_activity2">LANGKAH CUCI TANGAN</string>
+    <string name="move_activity3">PENGGUNAAN MASKER</string>
+    <string name="move_activity4">POLA HIDUP SEHAT</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="move_with_object">Pindah Activity dengan Object</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="move_with_result">Pindah Activity untuk Result</string>
+    <string name="result_from_activity">Hasil dari Activity</string>
+    <string name="choose_number">Pilih angka yang kamu suka</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">Pilih</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="object_received">Object Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="article_subtitle">Tips Menjaga Diri</string>
+    <string name="long_text">\n Menteri Kesehatan dr. Terawan Agus Putranto meminta kepada seluruh masyarakat Indonesia agar tetap menjaga kesehatan diri sendiri dan keluarga dengan terus berperilaku hidup bersih dan sehat seiring dengan kasus virus corona yang terdeteksi di Cina dan beberapa negara.
+       \n\n
+        Menurut Menkes, yang perlu disadari benar adalah pentingnya menjaga kesehatan diri sendiri karena pencegahan tersebut adalah yang paling baik dan murah. Adapun langkah pencegahan dan menjaga diri dari Virus Corona adalah dengan menerapkan GERMAS (Gerakan Masyarakat Hidup Sehat).
+        \n\n
+        <b>Adapun caranya adalah dengan beberapa kegiatan berikut:</b>
+        \n\n
+        1. Rajin cuci tangan pakai sabun
+        \n
+        2. Makan dengan gizi yang seimbang
+        \n
+        3. Rajin berolahraga dan istirahat yang cukup
+        \n
+        4. Jaga kebersihan lingkungan
+        \n
+        5. Tidak merokok
+        \n
+        6. Minum air mineral 8 gelas/hari
+        \n
+        7. Makan makanan yang dimasak dengan sempurna
+        \n
+        8. Bila demam dan sesak nafas, segera ke fasilitas kesehatan
+        \n
+        9. Gunakan masker bila batuk atau tutup mulut dengan lengan atas bagian dalam
+        \n
+        10.Selalu berdoa
+        \n\n
+        Dengan meningkatkan kesehatan diri sendiri dan keluarga, dapat menciptakan lingkungan yang bersih dan dapat mengurangi risiko terkena penyakit.
+
+</string>
+    <string name="article_subtitle2">Langkah Cuci Tangan Yang Benar</string>
+    <string name="long_text2">Sebagai bagian dari Perilaku Hidup Bersih dan Sehat, mencuci tangan dengan sabun pada air mengalir adalah salah satu tindakan dasar yang harus dilakukan. Tindakan sederhana ini menjadi hal yang sangat penting terlebih pada saat pandemi Covid-19 ini.
+        \n\n
+        Kita sebaiknya jangan menyepelekan aktivitas cuci tangan. Kebiasaan mencuci tangan memiliki peran yang sangat besar untuk memerangi risiko penyakit.
+        Dihimpun dari berbagai sumber, mencuci tangan dilakukan bukan hanya untuk “membersihkan” tangan saja, melainkan juga membunuh kuman, bakteri atau bahkan virus penyebab penyakit yang menempel di tangan.
+        \n\n
+        Word Health Organization (WHO) atau Organisasi Kesehatan Dunia menyarankan agar mencuci tangan memperhatikan 6 langkah yang tepat sesuai standar WHO dan menerapkannya dalam kehidupan sehari-hari.
+        \n\n
+       1. Ratakan sabun dengan menggosok kedua telapak tangan.
+        \n 2. Gosok punggung tangan dan sela-sela jari pada kedua tangan
+        \n 3. Gosok kedua telapan dan sela-sela jari pada kedua tangan
+        \n 4. Gosok punggung jari kedua tangan dengan posisi tangan saling mengunci
+        \n 5. Gosok ibu jari dengan memutar dalam genggaman tangan kanan serta lakukan juga pada tangan kiri
+        \n 6. Kuncupkan jari dan usapkan ujung kuku tangan kanan dengan diputar di telapak tangan kiri,lakukan sebaliknya, kemudian bilas dengan air mengalir sampai bersih.
+
+    </string>
+    <string name="article_subtitle3">Pentingnya Menggunakan Masker</string>
+    <string name="long_text3">\n\n Pemerintah Indonesia menganjurkan setiap warga yang beraktivitas di luar rumah untuk mengenakan masker.
+    Anjuran memakai masker juga diterapkan pada orang yang sehat, tidak terbatas bagi mereka yang merasa kurang enak badan.
+    \n\n
+    Badan Kesehatan Dunia atau World Health Organization (WHO) menegaskan pentingnya memakai masker baik bagi orang sakit maupun yang sehat untuk menghambat penyebaran COVID-19 dan akan tetap dianjurkan selama beberapa waktu ke depan hingga vaksin virus corona ditemukan.
+    \n\n
+    </string>
+    <string name="long_text4"><b>\n Cara menggunakan masker yang benar yaitu:</b>
+    \n\n1. Sebelum memasang masker, cuci tangan pakai sabun dan air mengalir atau,gunakan cairan pembersih tangan.
+    \n\n 2. Pasang masker untuk menutupi mulut dan hidung dan pastikan tidak ada sela antara wajah dan masker.
+    \n\n 3. Hindari menyentuh masker saat digunakan, bila tersentuh, cuci tangan pakai sabun dan air mengalir atau cairan pembersih tangan.
+    \n\n 4. Ganti masker yang basah atau lembab dengan masker baru. Masker medis hanya boleh digunakan satu kali saja. Masker kain dapat digunakan berulang kali.
+    \n\n 5. Untuk membuka masker: lepaskan dari belakang. Jangan sentuh bagian depan masker, untuk masker 1x pakai buang segera di tempat sampah tertutup atau kantong plastik. Untuk masker kain, segera cuci dengan deterjen.
+    </string>
+    <string name="article_subtitle4">Pola Hidup Sehat</string>
+    <string name="long_text5">\n Ditengah pandemi COVID-19 ini, seharusnya kita telah menerapkan pola hidup bersih dan sehat dalam kegiatan sehari-hari. Pentingnya hal tersebut dilakukan untuk
+    mengurangi risiko penyebaran virus COVID-19. Selalu waspada dan mulailah menjaga pola hidup sehat dengan menjaga lingkungan tetap bersih dan sehat.\n\n
+        <b>Berikut ini pola hidup bersih dan sehat yang harus dilakukan.</b>
+
+        \n\n
+        1. Memperbanyak asupan makanan bergizi dan menghindari makanan mentah
+        \n 2. Minum air mineral yang cukup
+        \n 3. Rutin berolahraga dan terpapr cukup sinar matahari
+        \n 4. Istirahat/tidur yang cukup
+        \n 5. Mengonsumsi multivitamin
+        \n 6. Rutin mencuci tangan
+        \n 7. Jaga jarak fisik dengan orang lain
+        \n 8. Menggunakan masker ketika keluar rumah
+        \n 9. Membersihkan barang dnegan disinfektan
+
+    </string>
+    <string name="judul">PENCEGAHAN COVID-19</string>
+
+
+</resources>
